@@ -3,7 +3,7 @@
 
 This repository contains the code, analysis, and insights from the **"Outcomes of Health for Horses" competition**, a Kaggle Playground challenge designed to predict the health outcomes of horses using a synthetically-generated dataset.
 
-# Check Competition overview Below:
+## Check Competition overview Below:
  link:- https://www.kaggle.com/competitions/playground-series-s3e22
 
 ## About the Dataset
