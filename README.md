@@ -31,5 +31,17 @@ This repository includes:
  Head Data
 ![Head Data](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/Head.png)
 
-Model View:
+Model View & Accuracy:
 ![Model](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/model.png)
+
+![Accuracy](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/Screenshot%202024-12-04%20090649.png)
+
+Metric View:
+![Metric](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/metric.png)
+
+Feature importance:
+![feature](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/feature.png)
+
+
+
+
