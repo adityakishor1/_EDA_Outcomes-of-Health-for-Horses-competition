@@ -28,5 +28,8 @@ This repository includes:
 4. **Evaluation Metrics:** Scripts for evaluating model performance and ensuring generalization.
 
 ## EDA overview
-
+ Head Data
 ![Head Data](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/Head.png)
+
+Model View:
+![Model](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/model.png)
