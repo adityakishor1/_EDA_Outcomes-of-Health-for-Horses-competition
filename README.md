@@ -27,3 +27,6 @@ This repository includes:
 3. **Model Development:** Implementation of machine learning models for prediction, including baseline models and hyperparameter tuning.
 4. **Evaluation Metrics:** Scripts for evaluating model performance and ensuring generalization.
 
+## EDA overview
+
+![Head Data](https://github.com/adityakishor1/_EDA_Outcomes-of-Health-for-Horses-competition/blob/main/Head.png)
